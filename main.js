@@ -1,9 +1,7 @@
 
 
 let bowling = {
-    players : [ 
-
-],
+    players : [],
 // punteggio finale
     setFinalScore : function(){
        this.players.forEach(( player ) => {
